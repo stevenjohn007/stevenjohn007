@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @stevenjohn007 
-Industrial Engineer
-Process Engineer
-Supply Chain Engineer
-Manufacturing Engineer
-Quality Engineer
+- 👋 Hi, I’m Steven John. I am an Industrial Engineer | Quality Engineer | Process Engineer | Supply Chain Engineer | Manufacturing Engineer
 - 👀 I’m interested in ...AI, Machine Learning, Deep Learning
 - 🌱 I’m currently learning ... AI, Machine Learning, Deep Learning
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... projects
 - 📫 How to reach me ... 6824105980
 
 <!---
